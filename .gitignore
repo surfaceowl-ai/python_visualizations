@@ -106,3 +106,8 @@ venv.bak/
 
 # pycharm configuration files
 *.idea
+
+# ignore big files from this project
+*.zip
+*.csv
+*.xlsx
