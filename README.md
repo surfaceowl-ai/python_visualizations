@@ -4,6 +4,28 @@ python talk on data visualizations - focused on matplotlib and bokeh
 # Outline
 ### Intro
 ### Objectives
+Understand why effective visualizations are important
+
+Touch on the grammar of graphics and how to choose the right visual approach
+
+Learn about the matplotlib library and do some live coding
+
+Learn about the bokeh library and understand 
+
+### effective visualizations
+charles minard - march to moscow
+(charles minard)[https://en.wikipedia.org/wiki/Charles_Joseph_Minard#The_map_of_Napoleon%27s_Russian_campaign]
+
+challenger - image
+challenger - notes
+(presentation obscured lack of data)[https://www.vice.com/en_us/article/kbb3qz/could-better-data-design-have-prevented-challenger]
+
+(13 charts failed to stop the launch - analysis of engineering discussions)[https://spacegrant.carthage.edu/live/files/2505-tap16workshop-4-tuftepdf]
+(primary chart - by launch date)[https://history.nasa.gov/rogersrep/v5p896.htm]
+(Report from Presidential Commission Hearings)[https://history.nasa.gov/rogersrep/v4p645.htm]
+(main report)[https://history.nasa.gov/rogersrep/v4part6.htm#645]
+challenger - graph
+
 ### Matplotlib - why it's important
 
 Matplotlib - classic use cases
