@@ -6,11 +6,15 @@ python talk on data visualizations - focused on matplotlib and bokeh
 ### Objectives
 Understand why effective visualizations are important
 
-Touch on the grammar of graphics and how to choose the right visual approach
+Learn about the grammar of graphics and how to choose the right visual approach
 
-Learn about the matplotlib library and do some live coding
+Get a snapshot of the python visualization universe
 
-Learn about the bokeh library and understand 
+Foundation - learn about matplotlib, understand core use cases & pitfalls + ways to make it better, do some live coding
+
+Future - Learn about the bokeh library, understand advantages, learn about interactive visualizations, even more live coding
+
+
 
 ### effective visualizations
 charles minard - march to moscow
