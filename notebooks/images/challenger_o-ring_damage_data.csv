@@ -1,0 +1,25 @@
+Flight,Date,Temperature °F,Erosion incidents,Blow-by incidents,Damage index,Comments
+51-C,01.24.85,53,3,2,11,Most erosion any flight; blow-by; back-up rings heated
+41-B,02.03.84,57,1,,4,"Deep, extensive erosion"
+61-C,01.12.86,58,1,,4,O-ring erosion on launch two weeks before Challenger.
+41-C,04.06.84,63,1,,2,"O-rings showed signs of heating, but no damage."
+1,04.12.81,66,,,0,
+6,04.04.83,67,,,0,
+51-A,11.08.84,67,,,0,
+51-D,04.12.85,67,,,0,
+5,11.11.82,68,,,0,
+3,03.22.82,69,,,0,
+2,11.12.81,70,1,,4,Extent of erosion not fully known.
+9,11.28.83,70,,,0,
+41-D,08.30.84,70,1,,4,
+51-G,06.17.85,70,,,0,
+7,06.18.83,72,,,0,
+8,08.30.83,73,,,0,
+51-B,04.29.85,75,,,0,
+61-A,10.30.85,75,,2,4,No erosion. Soot found behind two primary O-rings.
+51-I,08.27.85,76,,,0,
+61-B,11.26.85,76,,,0,
+41-G,10.05.84,78,,,0,
+51-J,10.03.85,79,,,0,
+not_listed,06.27.82,80,,,0,O-ring condition unknown; rocket casing lost at sea. (set to zero)
+51-F,07.29.85,81,,,0,
