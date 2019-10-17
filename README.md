@@ -1,61 +1,52 @@
 # python_visualizations
-python talk on data visualizations - focused on matplotlib and bokeh
+python talk on data visualization - focused on matplotlib and bokeh libraries
 
 # Outline
-### Intro
+### Introduction
+
 ### Objectives
 Understand why effective visualizations are important
 
-Learn about the grammar of graphics and how to choose the right visual approach
+Introduction to the grammar of graphics and how to choose the right visual approach
 
 Get a snapshot of the python visualization universe
 
-Foundation - learn about matplotlib, understand core use cases & pitfalls + ways to make it better, do some live coding
+Explore Foundation - learn about matplotlib, understand core use cases & pitfalls + ways to make it better, do some live coding
 
-Future - Learn about the bokeh library, understand advantages, learn about interactive visualizations, even more live coding
+Look at the Future - Learn about the bokeh library, learn about interactive visualizations, even more live coding
 
 
-
-### effective visualizations
+## Notes
+### inspiration - effective visualizations
 charles minard - march to moscow
 (charles minard)[https://en.wikipedia.org/wiki/Charles_Joseph_Minard#The_map_of_Napoleon%27s_Russian_campaign]
 
-challenger - image
-challenger - notes
+challenger disaster - Roberts Report
 (presentation obscured lack of data)[https://www.vice.com/en_us/article/kbb3qz/could-better-data-design-have-prevented-challenger]
-
 (13 charts failed to stop the launch - analysis of engineering discussions)[https://spacegrant.carthage.edu/live/files/2505-tap16workshop-4-tuftepdf]
 (primary chart - by launch date)[https://history.nasa.gov/rogersrep/v5p896.htm]
 (Report from Presidential Commission Hearings)[https://history.nasa.gov/rogersrep/v4p645.htm]
 (main report)[https://history.nasa.gov/rogersrep/v4part6.htm#645]
-challenger - graph
 
-### Matplotlib - why it's important
 
-Matplotlib - classic use cases
+### Illustrate Python Visualization universse; compare libaries - Matplotlib ; Bokeh; Plotly
 
-Matplotlib - some limitations
 
-Matplotlib - why it's horrible
+### Matplotlib - 
 
-Matplotlib - simple ways to improve...  & Matplotlib - you need to know it, and how to solve
+Matplotlib - use to explore Challenger Disaster Visualization
+
+Matplotlib - explain and demo different APIs
+
+Matplotlib - illustrate simple ways to improve...  & Matplotlib - you need to know it, and how to solve
 
 ### Bokeh - the new hotness
+Bokeh - syntax, basic cases
 
-Also Seaborn and Plotly are nice
-
-Bokeh - benefits
-cleaner syntax
-interactivity - hover, zoom, pan, linking
+Bokeh - interactivity - hover, zoom, pan, linking
 
 Bokeh - key concepts; some ideas 
 
-https://av.tib.eu/media/20108
-https://anaconda.org/ijstokes/15-visualization-bokeh/notebook
-https://bokeh.pydata.org/en/0.8.2/docs/user_guide/examples.html
-hans rosling:  https://rebeccabilbro.github.io/interactive-viz-bokeh/
-https://towardsdatascience.com/6-reasons-i-love-bokeh-for-data-exploration-with-python-a778a2086a95
+Bokeh - animation / streaming data
 
-### Animations - 
-### Matplotlib -- something; uses images
-### Bokeh -- college rankings --> bar chart race
+### Supporting Resources -- examples of inspirational visualizations
