@@ -1,13 +1,13 @@
 # supporting libraries
 black==19.3b0
 bokeh==1.3.4
-dask[complete]==2.5.2
+dask[complete]==2.6.0
 holoplot==0.1.0
 holoviews==1.12.6
-hvplot==0.5.1
+hvplot==0.5.2
 matplotlib==3.1.1
 missingno==0.4.2
-numpy==1.17.2
+numpy==1.17.3
 openpyxl==3.0.0
 pandas==0.25.1
 pillow==6.2.0
