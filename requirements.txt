@@ -1,19 +1,19 @@
 # supporting libraries
 black==19.3b0
-bokeh==1.3.4
-dask[complete]==2.6.0
+bokeh==1.4.0
+dask[complete]==2.7.0
 holoplot==0.1.0
 holoviews==1.12.6
 hvplot==0.5.2
 matplotlib==3.1.1
 missingno==0.4.2
-numpy==1.17.3
+numpy==1.17.4
 openpyxl==3.0.0
-pandas==0.25.2
+pandas==0.25.3
 pillow==6.2.1
-psutil==5.6.3
+psutil==5.6.5
 pur==5.2.2
-rise==5.5.1
+rise==5.6.0
 seaborn==0.9.0
 scikit-learn==0.21.3
 streamz==0.5.2
@@ -23,6 +23,6 @@ jupyter==1.0.0
 jupyter-contrib-nbextensions==0.5.1
 jupyter-nbextensions-configurator==0.4.1
 jupyternotify==0.1.15
-ipython==7.8.0
+ipython==7.9.0
 ipywidgets==7.5.1
 yapf==0.28.0
