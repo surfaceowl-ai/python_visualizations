@@ -8,7 +8,7 @@ hvplot==0.5.2
 matplotlib==3.1.1
 missingno==0.4.2
 numpy==1.17.4
-openpyxl==3.0.0
+openpyxl==3.0.1
 pandas==0.25.3
 pillow==6.2.1
 psutil==5.6.5
