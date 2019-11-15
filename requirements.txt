@@ -1,7 +1,7 @@
 # supporting libraries
 black==19.3b0
 bokeh==1.4.0
-dask[complete]==2.7.0
+dask[complete]==2.8.0
 holoplot==0.1.0
 holoviews==1.12.6
 hvplot==0.5.2
