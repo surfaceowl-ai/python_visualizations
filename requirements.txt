@@ -2,6 +2,7 @@
 black==19.3b0
 bokeh==1.4.0
 dask[complete]==2.8.0
+datashader==0.8.0
 holoplot==0.1.0
 holoviews==1.12.6
 hvplot==0.5.2
@@ -10,6 +11,7 @@ missingno==0.4.2
 numpy==1.17.4
 openpyxl==3.0.1
 pandas==0.25.3
+pandas-bokeh==0.4
 pillow==6.2.1
 psutil==5.6.5
 pur==5.2.2
