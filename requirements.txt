@@ -8,6 +8,7 @@ holoviews==1.12.6
 hvplot==0.5.2
 matplotlib==3.1.1
 missingno==0.4.2
+nb_black==1.0.6
 numpy==1.17.4
 openpyxl==3.0.1
 pandas==0.25.3
@@ -19,6 +20,8 @@ rise==5.6.0
 seaborn==0.9.0
 scikit-learn==0.21.3
 streamz==0.5.2
+watermark==2.0.1
+xlrd==1.2.0
 
 # notebook
 jupyter==1.0.0
