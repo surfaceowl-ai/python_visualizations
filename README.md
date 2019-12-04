@@ -1,7 +1,15 @@
 # python_visualizations
 python talk on data visualization - focused on matplotlib and bokeh libraries
 
-# Outline
+# Outline - SF Python Lightning Talk 2019.12.04
+Bokeh overview
+Basic Interactions
+Linked Charts & Tables + Saving Data
+Elegent intuition - Fourier Transform Visualizations  (extend Bokeh maintainer example)
+Live Streaming Data - Audio Spectrogram (extend Bokeh maintainer example)
+
+
+# Outline - Main talk
 ### Introduction
 
 ### Objectives
