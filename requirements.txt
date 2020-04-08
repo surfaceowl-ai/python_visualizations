@@ -1,9 +1,9 @@
 # supporting libraries
 black==19.3b0
-bokeh==2.0.0
-dask[complete]==2.13.0
+bokeh==2.0.1
+dask[complete]==2.14.0
 datashader==0.10.0
-holoviews==1.13.1
+holoviews==1.13.2
 hvplot==0.5.2
 matplotlib==3.2.1
 missingno==0.4.2
@@ -12,13 +12,13 @@ numpy==1.18.2
 openpyxl==3.0.3
 pandas==1.0.3
 pandas-bokeh==0.4.2
-pillow==7.0.0
+pillow==7.1.1
 psutil==5.7.0
 pur==5.3.0
 rise==5.6.1
 seaborn==0.10.0
 scikit-learn==0.22.2.post1
-streamz==0.5.2
+streamz==0.5.3
 watermark==2.0.2
 xlrd==1.2.0
 

@@ -3,7 +3,7 @@ The example was inspired by `this video`_.
 Use the ``bokeh serve`` command to run the example by executing:
     bokeh serve main.py
 at your command prompt. Then navigate to the URL
-    http://localhost:5006/fourier_animated
+    http://localhost:5006/fourier_animated_v2
 in your browser.
 .. _this video: https://www.youtube.com/watch?v=LznjC4Lo7lE
 '''
@@ -207,16 +207,16 @@ fourier = OrderedDict(
 )
 
 for k, p in fourier.items():
-    p['plot'], p['sources'] = create_plot(
-        p['fs'], 'Fourier (Sum of the first 4 Harmonic Circles)', r=p['f'](period), cfoos=p['cfs']
+    p['cplot'], p['csources'] = create_centric_plot(
+        p['fs'], 'Fourier Sine Waves - First 4 Harmonics & Harmonic Circles', r=p['f'](period), cfoos=p['cfs']
     )
 
 for k, p in fourier.items():
-    p['cplot'], p['csources'] = create_centric_plot(
-        p['fs'], 'Fourier First 4 Harmonics & Harmonic Circles', r=p['f'](period), cfoos=p['cfs']
+    p['plot'], p['sources'] = create_plot(
+        p['fs'], 'Fourier Transformation -- (Sum of the first 4 Harmonic Circles)', r=p['f'](period), cfoos=p['cfs']
     )
 
-layout = column(*[f['plot'] for f in fourier.values()] + [f['cplot'] for f in fourier.values()])
+layout = column(*[f['cplot'] for f in fourier.values()] + [f['plot'] for f in fourier.values()])
 
 
 @repeat(range(N))
@@ -226,8 +226,8 @@ def cb(gind):
     newx = np.hstack([oldx, [oldx[-1] + 2 * pi / N]])
 
     for k, p in fourier.items():
-        update_sources(p['sources'], p['fs'], newx, gind, p['cfs'])
         update_centric_sources(p['csources'], p['fs'], newx, gind, p['cfs'])
+        update_sources(p['sources'], p['fs'], newx, gind, p['cfs'])
 
 
 curdoc().title = "Fourier Animated"
