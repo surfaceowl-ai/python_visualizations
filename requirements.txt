@@ -12,7 +12,7 @@ numpy==1.18.2
 openpyxl==3.0.3
 pandas==1.0.3
 pandas-bokeh==0.4.2
-pillow==8.3.2
+pillow==9.0.1
 psutil==5.7.0
 pur==5.3.0
 rise==5.6.1
