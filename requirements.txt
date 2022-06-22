@@ -8,7 +8,7 @@ hvplot==0.5.2
 matplotlib==3.2.1
 missingno==0.4.2
 nb_black==1.0.7
-numpy==1.18.2
+numpy==1.22.0
 openpyxl==3.0.3
 pandas==1.0.3
 pandas-bokeh==0.4.2
