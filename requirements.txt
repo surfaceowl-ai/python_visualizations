@@ -27,6 +27,6 @@ jupyter==1.0.0
 jupyter-contrib-nbextensions==0.5.1
 jupyter-nbextensions-configurator==0.4.1
 jupyternotify==0.1.15
-ipython==7.16.3
+ipython==8.10.0
 ipywidgets==7.5.1
 yapf==0.29.0
