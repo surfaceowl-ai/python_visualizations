@@ -17,7 +17,7 @@ psutil==5.7.0
 pur==5.3.0
 rise==5.6.1
 seaborn==0.10.0
-scikit-learn==0.22.2.post1
+scikit-learn==1.5.0
 streamz==0.5.3
 watermark==2.0.2
 xlrd==1.2.0
