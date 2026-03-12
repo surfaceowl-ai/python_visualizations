@@ -1,5 +1,5 @@
 # supporting libraries
-black==24.3.0
+black==26.3.1
 bokeh==2.0.1
 dask[complete]==2.14.0
 datashader==0.10.0
