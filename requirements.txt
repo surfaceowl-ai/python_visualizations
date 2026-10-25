@@ -1,6 +1,6 @@
 # supporting libraries
 bokeh==3.8.2
-black==26.3.1
+black==26.10.1
 dask[complete]==2.14.0
 datashader==0.10.0
 holoviews==1.13.2
